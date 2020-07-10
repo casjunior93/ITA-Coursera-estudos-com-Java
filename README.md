@@ -5,4 +5,6 @@ Repositório dos materiais gerados pelos cursos sobre Java oferecidos pelo ITA a
 
 - # Orientação a Objetos com Java:
 - Classes e objetos
+- Construtores
+- Colaborações entre classes
 - Modelagem com CRC
