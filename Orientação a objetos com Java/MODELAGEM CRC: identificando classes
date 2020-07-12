@@ -1,0 +1,39 @@
+MODELAGEM CRC: identificando classes
+
+#	CRC Modeling
+
+Modelagem informal para modelar uma aplicação com classes e objetos
+
+-	Passo 0: especificação de aplicação
+
+-	Passo 1: Identificar objetos e classes
+	.Procurar por substantivos/nomes na especificaçãos dos requisitos do sistema
+	.Potenciais objetos e classes
+	
+-	Passo 2: Refinar a lista
+	.Identificar nomes diferentes que representam a mesma coisa
+	.Retirar nomes que representam atributos
+	.Identificar classes e subclasses
+	.Descrever o que cada classe faz
+	.Identificar atores - quem interage com o sistema
+	
+-	Passo 3: Responsabilidades óbvias
+	.Identificar responsabilidades óbvias para cada classe
+	
+-	Passo 4: Verbos como responsabilidade
+	.Fazer lista de verbos (responsabilidade do tipo faz)
+	
+-	Passo 5: Para cada potencial responsabilidade, verifique a lista a ser atribuída
+	.Se corresponder a responsabilidade óbvia, buscar outra classe
+	.Se não, busque classe para atribuir
+	.Atribuição das responsabilidades
+	
+-	Passo 6: Descrever a lógica de cada classe
+	.Identificar colaborações
+	.Identificar novas responsabilidades
+	
+	
+
+
+
+
